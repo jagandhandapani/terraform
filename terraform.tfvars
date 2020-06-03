@@ -1,5 +1,5 @@
 rgroup                          = "Test_RG"
-location                        = "East US"
+location                        = "EastUS"
 prefix                          =  "test"
 vnet_address_space              = "10.0.0.0/16"   
 web_server_subnet_name          = "web_server_subnet"
