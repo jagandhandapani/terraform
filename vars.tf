@@ -24,18 +24,3 @@ variable "web_server_subnet_address_space" {
 variable "app_server_subnet_address_space" {
   type = "string"
 }
-
-variable "web_network_interface" {
-  type = "string" 
-}
-
-variable "webserver_count" {
-  type = "string"
-}
-
-variable "public_ip" {
- type= "string"
-}
-
-
-
