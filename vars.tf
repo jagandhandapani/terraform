@@ -1,40 +1,40 @@
 variable "rgroup" {
-  default = "string"
+  type = "string"
 }
 
 variable "location" {
-  default = "string"
+  type = "string"
 }
 
 variable "prefix" {
-  default = "string"
+  type = "string"
 }
 variable "vnet_address_space" {
-  default = "string"
+  type = "string"
 }
 
 variable "web_server_subnet_name" {
-  default = "string"
+  type = "string"
 }
 
 variable "web_server_subnet_address_space" {
-  default = "string"
+  type = "string"
 }
 
 variable "app_server_subnet_address_space" {
-  default = "string"
+  type = "string"
 }
 
 variable "web_network_interface" {
-  default = "string" 
+  type = "string" 
 }
 
 variable "webserver_count" {
-  default = "string"
+  type = "string"
 }
 
 variable "public_ip" {
- default= "srting"
+ type= "srting"
 }
 
 
