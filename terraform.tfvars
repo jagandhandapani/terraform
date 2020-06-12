@@ -5,6 +5,4 @@ vnet_address_space              = "10.0.0.0/16"
 web_server_subnet_name          = "web_server_subnet"
 web_server_subnet_address_space = "10.0.1.0/24"
 app_server_subnet_address_space = "10.0.2.0/24"
-web_network_interface           =   "web"
-webserver_count                 = 3
-public_ip                       = "publicip"
+
