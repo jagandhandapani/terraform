@@ -34,7 +34,7 @@ variable "webserver_count" {
 }
 
 variable "public_ip" {
- type= "srting"
+ type= "string"
 }
 
 
