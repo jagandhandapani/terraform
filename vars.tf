@@ -1,11 +1,9 @@
 variable "rgroup" {
   type = "string"
-  default = "Test_RG"
 }
 
 variable "location" {
   type = "string"
-  default = "EastUS"
 }
 
 variable "prefix" {
